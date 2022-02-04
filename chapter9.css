@@ -22,3 +22,28 @@ main {
   position: relative;
   background-color: #eee;
 }
+
+.step-box:last-child {
+  margin-right: 0;
+}
+
+.step-img1 {
+  height: 150px;
+  background-image: url(画像ファイル/flow01.png);
+  background-position: bottom;
+  background-size: cover;
+}
+
+.step-img2 {
+  height: 150px;
+  background-image: url(画像ファイル/flow02.png);
+  background-position: bottom;
+  background-size: cover;
+}
+
+.step-img3 {
+  height: 150px;
+  background-image: url(画像ファイル/flow03.png);
+  background-position: bottom;
+  background-size: cover;
+}
